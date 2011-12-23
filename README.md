@@ -65,3 +65,7 @@ Limitations!
 -----------------
 - This will remove alpha component from the background color, because its not possible to calculate actual, color by having alpha component in it. 
 - does not work with background images. 
+
+Demo?
+----------
+You can see working Demo Here http://www.purplegene.com/static/contrast.html
