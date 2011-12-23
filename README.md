@@ -63,5 +63,5 @@ These 2 functions together used to determine and fix colors of a html content.
 
 Limitations!
 -----------------
--This will remove alpha component from the background color, because its not possible to calculate actual, color by having alpha component in it. 
--does not work with background images. 
+- This will remove alpha component from the background color, because its not possible to calculate actual, color by having alpha component in it. 
+- does not work with background images. 
