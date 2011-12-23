@@ -69,3 +69,15 @@ Limitations!
 Demo?
 ----------
 You can see working Demo Here http://www.purplegene.com/static/contrast.html
+
+
+<pre>
+       ad88  88                 ,ad8888ba,                88                           
+      d8"    ""                d8"'    `"8b               88                           
+      88                      d8'                         88                           
+    MM88MMM  88  8b,     ,d8  88              ,adPPYba,   88   ,adPPYba,   8b,dPPYba,  
+      88     88   `Y8, ,8P'   88             a8"     "8a  88  a8"     "8a  88P'   "Y8  
+      88     88     )888(     Y8,            8b       d8  88  8b       d8  88          
+      88     88   ,d8" "8b,    Y8a.    .a8P  "8a,   ,a8"  88  "8a,   ,a8"  88          
+      88     88  8P'     `Y8    `"Y8888Y"'    `"YbbdP"'   88   `"YbbdP"'   88          
+</pre>
