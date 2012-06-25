@@ -1,3 +1,13 @@
+/*!
+ * fixColors.js
+ * http://www.markandey.com/
+ *
+ * Copyright 2012, Markandey Singh @markandey
+ * Dual licensed under the MIT or GPL Version 2 licenses.
+ * Released under the MIT, BSD, and GPL Licenses.
+ *
+ * Date: April 2012
+ */
 $.fn.fixColors = function(options) {
     var defaults={'isBackground':false};
     var opts = $.extend(defaults, options);
