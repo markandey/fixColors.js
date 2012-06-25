@@ -1,11 +1,7 @@
 /*!
  * fixColors.js
  * http://www.markandey.com/
- *
- * Copyright 2012, Markandey Singh @markandey
- * Dual licensed under the MIT or GPL Version 2 licenses.
- * Released under the MIT, BSD, and GPL Licenses.
- *
+ * Markandey Singh @markandey
  * Date: April 2012
  */
 $.fn.fixColors = function(options) {
